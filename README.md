@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nicolyvieira
 - 🌱 I’m currently learning  Desenvolvimento de sistemas 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <div align="center">
   <a href="https://github.com/Nicolyvieira">
