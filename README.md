@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicolyvieira
 - 🌱 I’m currently learning  Desenvolvimento de sistemas 
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <div align="center">
