@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nicolyvieira
-- 🌱 I’m currently learning  Desenvolvimento de sistemas 
+- 🌱 Estudante de Tecnico em Desenvolvimento de sistemas 
+- 🌱 17 anos 
 
 
 
