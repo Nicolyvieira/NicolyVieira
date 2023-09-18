@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Nicolyvieira
 - 🌱 Estudante de Tecnico em Desenvolvimento de sistemas 
 - 🌱 18 anos
+- 🌱 Desenvolvedora FullStack
+- 🌱 Angular CLI
 
 
 
