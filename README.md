@@ -3,6 +3,7 @@
 - 🌱 18 anos
 - 🌱 Desenvolvedora FullStack
 - 🌱 Angular CLI
+- LinkedIn https://www.linkedin.com/in/nicoly-alves-a6bb91229
 
 
 
